@@ -1,23 +1,18 @@
-import logo from './logo.svg';
+
 import './App.css';
+import CompanyInfo from './CompanyInfo';
+import LeadershipTeam from './LeadershipTeam';
+import DevelopmentTeam from './DevelopmentTeam';
+import MarketingTeam from './MarketingTeam';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <CompanyInfo/>
+    <h1 className='Box-Title'>Meet Out Team</h1>
+    <LeadershipTeam/>
+    <DevelopmentTeam/>
+    <MarketingTeam/>
     </div>
   );
 }
