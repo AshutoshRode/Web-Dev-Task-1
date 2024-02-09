@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Web-Dev-Task-1/static/css/main.b84fa958.css",
+    "main.js": "/Web-Dev-Task-1/static/js/main.53b612af.js",
+    "static/js/592.281d5b5d.chunk.js": "/Web-Dev-Task-1/static/js/592.281d5b5d.chunk.js",
+    "static/media/Rajinikanth.jpeg": "/Web-Dev-Task-1/static/media/Rajinikanth.56458ab194bf6ae31dad.jpeg",
+    "static/media/shahid-kapoor.jpg": "/Web-Dev-Task-1/static/media/shahid-kapoor.0cc8539b85d91bd198d8.jpg",
+    "static/media/Ritesh Deshmukh.jpg": "/Web-Dev-Task-1/static/media/Ritesh Deshmukh.676a2ff7e8939ff7a0a3.jpg",
+    "static/media/Amitabh-Bachchan.jpg": "/Web-Dev-Task-1/static/media/Amitabh-Bachchan.0b1e3b3a45b8ba0c273e.jpg",
+    "static/media/Hrithik Roshan.jpg": "/Web-Dev-Task-1/static/media/Hrithik Roshan.05c368d52209993a4a21.jpg",
+    "static/media/Thalapathy Vijay.jpg": "/Web-Dev-Task-1/static/media/Thalapathy Vijay.19e6f2a6835252029696.jpg",
+    "static/media/AA.jpg": "/Web-Dev-Task-1/static/media/AA.6d78d1f1068b12dfae4b.jpg",
+    "static/media/Suriya.jpg": "/Web-Dev-Task-1/static/media/Suriya.fac1edb24de2fb98f76c.jpg",
+    "static/media/Salman Khan.jpeg": "/Web-Dev-Task-1/static/media/Salman Khan.3a6954d6be804314602b.jpeg",
+    "static/media/Nana-Patekar.jpg": "/Web-Dev-Task-1/static/media/Nana-Patekar.96944e40a7b10064fe83.jpg",
+    "static/media/Ram Charan.jpg": "/Web-Dev-Task-1/static/media/Ram Charan.0a5f329b51cf32db0799.jpg",
+    "static/media/Shahrukh Khan.jpg": "/Web-Dev-Task-1/static/media/Shahrukh Khan.b9128192a428804b7d15.jpg",
+    "static/media/Ranbir Kapoor.jpg": "/Web-Dev-Task-1/static/media/Ranbir Kapoor.6e30a9330471984ecef9.jpg",
+    "static/media/Madhuri-Dixit.jpg": "/Web-Dev-Task-1/static/media/Madhuri-Dixit.e426917b6e34859468a5.jpg",
+    "static/media/yash (naveen kumar).jpg": "/Web-Dev-Task-1/static/media/yash (naveen kumar).793153d993879a304a79.jpg",
+    "static/media/Anupam-Kher.jpeg": "/Web-Dev-Task-1/static/media/Anupam-Kher.74fc0aa804c28eac405b.jpeg",
+    "static/media/Aamir Khan.jpeg": "/Web-Dev-Task-1/static/media/Aamir Khan.3720909548ba9e84704e.jpeg",
+    "static/media/kamal haasan.jpg": "/Web-Dev-Task-1/static/media/kamal haasan.8c5d933eec53eef4eadb.jpg",
+    "static/media/Mahesh Babu.jpeg": "/Web-Dev-Task-1/static/media/Mahesh Babu.8915c53a3d0126c35b54.jpeg",
+    "static/media/Akshay Kumar.jpg": "/Web-Dev-Task-1/static/media/Akshay Kumar.f75d1be014fe9557dd91.jpg",
+    "index.html": "/Web-Dev-Task-1/index.html",
+    "main.b84fa958.css.map": "/Web-Dev-Task-1/static/css/main.b84fa958.css.map",
+    "main.53b612af.js.map": "/Web-Dev-Task-1/static/js/main.53b612af.js.map",
+    "592.281d5b5d.chunk.js.map": "/Web-Dev-Task-1/static/js/592.281d5b5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b84fa958.css",
+    "static/js/main.53b612af.js"
+  ]
+}
